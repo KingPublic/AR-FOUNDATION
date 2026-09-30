@@ -1,0 +1,30 @@
+# Cache dan file sementara Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Hasil build
+/[Bb]uild/
+/[Bb]uilds/
+
+# File otomatis Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.opendb
+*.VC.db
+
+# File sistem
+.DS_Store
+Thumbs.db
+Desktop.ini
